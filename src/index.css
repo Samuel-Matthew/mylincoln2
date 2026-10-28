@@ -1,0 +1,14 @@
+.staff img{
+  width: 200px;
+  height: 200px;
+}
+
+.staff{
+  border: 1px solid black;
+  width: 200px;
+  padding: 5px;
+}
+
+.card{
+  display: flex;
+}
